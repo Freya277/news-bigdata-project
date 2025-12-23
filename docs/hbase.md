@@ -81,7 +81,7 @@ hbase/
 
 五.通过 HBase Shell 创建表
 
-```hbase
+```sql
 # 1. 创建作者影响力表
 create 'news_author_influence', 'profile'
 
